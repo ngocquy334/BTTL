@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="secondary">#009688</color>
+    <color name="background">#F5F7FB</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="delete_red">#EF4444</color>
+    <color name="delete_red_light">#FEE2E2</color>
+    <color name="gpa_badge_bg">#DCFCE7</color>
+    <color name="gpa_badge_text">#15803D</color>
+    <color name="avatar_bg">#3B82F6</color>
+</resources>

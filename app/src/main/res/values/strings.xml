@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="title_student_list">Danh Sách Sinh Viên</string>
+    <string name="empty_student_title">Chưa có sinh viên nào</string>
+    <string name="empty_student_desc">Nhấn vào nút \'+\' bên dưới để thêm sinh viên mới vào cơ sở dữ liệu.</string>
+    <string name="add_student_title">Thêm Sinh Viên Mới</string>
+    <string name="hint_full_name">Họ và tên</string>
+    <string name="hint_student_code">Mã số sinh viên (MSSV)</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_gpa">Điểm trung bình (GPA)</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_delete">Xóa</string>
+</resources>
